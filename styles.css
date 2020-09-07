@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+.card {
+    background-color: gold;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    
+}
+p {
+    padding: 100px 0;
+}
